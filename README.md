@@ -1,5 +1,5 @@
 # samsung-assignment
 
 
-In order to run selenium, you need to have chromedriver and keep it in project folder. 
+Chromedriver is needed in project folder in order to run selenium, . 
 https://chromedriver.chromium.org/downloads
